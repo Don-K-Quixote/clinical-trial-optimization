@@ -21,7 +21,7 @@ This project explores AI applications to **streamline clinical trial processes**
 ## 🖥 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/clinical-trial-optimization.git
+   git clone https://github.com/Don-K-Quixote/clinical-trial-optimization.git
    cd clinical-trial-optimization
    ```
 2. Install dependencies:
